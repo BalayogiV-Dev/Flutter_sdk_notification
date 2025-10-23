@@ -49,21 +49,21 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDLa6F4Rpr7liHMynNrkEFHxJIHYvfMGX0',
-    appId: '1:1094423700279:android:cf61fb43b12c10ea7eb0b2',
-    messagingSenderId: '1094423700279',
-    projectId: 'integrate-push-notification',
-    storageBucket: 'integrate-push-notification.firebasestorage.app',
-  );
+  // static const FirebaseOptions android = FirebaseOptions(
+  //   apiKey: 'xxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  //   appId: '1:1094423700279:android:cf61fb43b12c10ea7eb0b2',
+  //   messagingSenderId: '1094423700279',
+  //   projectId: 'integrate-push-notification',
+  //   storageBucket: 'integrate-push-notification.firebasestorage.app',
+  // );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6KYjCjl9cNkRUcLdq99uA8kf5hYL3Z_A',
-    appId: '1:1094423700279:ios:eea5baad054c8d0f7eb0b2',
-    messagingSenderId: '1094423700279',
-    projectId: 'integrate-push-notification',
-    storageBucket: 'integrate-push-notification.firebasestorage.app',
-    iosBundleId: 'com.syncfusion.bolddesksdk',
-  );
+  // static const FirebaseOptions ios = FirebaseOptions(
+  //   apiKey: 'xxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  //   appId: '1:1094423700279:ios:eea5baad054c8d0f7eb0b2',
+  //   messagingSenderId: '1094423700279',
+  //   projectId: 'integrate-push-notification',
+  //   storageBucket: 'integrate-push-notification.firebasestorage.app',
+  //   iosBundleId: 'com.syncfusion.bolddesksdk',
+  // );
 
 }
