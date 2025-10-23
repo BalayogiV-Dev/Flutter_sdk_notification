@@ -1,7 +1,8 @@
 name: flutter_sdk_notification
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/BalayogiV-Dev/Flutter_sdk_notification
+repository: https://github.com/BalayogiV-Dev/Flutter_sdk_notification
 
 environment:
   sdk: ^3.9.2
